@@ -5,8 +5,9 @@
 # Iniciativas
 **1) Compreender o panorama de atividades de extensão universitária da EACH**  
 - Dois objetivos:  
-  a) atualizar a [seção de extensão do site institucional da EACH](http://www5.each.usp.br/cultura-e-extensao-ccex-nova/) com a lista de grupos  
-  b) usar o mapeamento de apoio para dar suporte às atividades de extensão (no sentido de possibilitar aberturas ou atender às necessidades ou interesses dos grupos)
-- Se concretiza...  
-  a) com uma pesquisa  
-    i. 
+  * atualizar a [seção de extensão do site institucional da EACH](http://www5.each.usp.br/cultura-e-extensao-ccex-nova/) com a lista de grupos  
+  * usar o mapeamento de apoio para dar suporte às atividades de extensão (no sentido de possibilitar aberturas ou atender às necessidades ou interesses dos grupos)
+
+- Se concretiza com uma **pesquisa**[]
+com uma pesquisa  
+    i.
