@@ -11,3 +11,9 @@
 - Se concretiza com uma **pesquisa**[]
 com uma pesquisa  
     i.
+
+
+
+[extensao](https://github.com/trevineju/RD_CCEx-EACH/blob/main/mapeamento_extensao.md)
+[docentes](https://github.com/trevineju/RD_CCEx-EACH/blob/main/mapeamento_docentes.md)
+[comunidade](https://github.com/trevineju/RD_CCEx-EACH/blob/main/mapeamento_comunidade.md)
