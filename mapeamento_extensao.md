@@ -29,6 +29,7 @@ Este arquivo lista as perguntas que estarão na pesquisa, organizadas em blocos 
   - gerida por professor, por aluno, por funcionário, tutorado
   - se tutorado, qual o tutor
 - Se existe estatuto
+- Organização interna
 
 4. **Informações sobre a atuação**
 - Demanda espaço para reunião do grupo

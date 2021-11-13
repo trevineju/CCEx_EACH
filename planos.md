@@ -38,3 +38,13 @@
 
 - Frequência: contínua com triagem periódica (quinzenal? mensal?) e empacotamento semestral
   * triagem: requisitos de aceite do projeto/demanda
+
+# Gargalos
+- Nova eleição pra CCEx
+- Viabilidade de execução e implementação em tempo de mandato / continuidade
+- Docentes e Funcionários conservadores
+
+
+# Outros focos
+- Cursinho da EACH
+- Regulamentação das AAC
