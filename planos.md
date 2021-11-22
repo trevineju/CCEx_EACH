@@ -48,3 +48,4 @@
 # Outros focos
 - Cursinho da EACH
 - Regulamentação das AAC
+- "Super Recepção" da SBC
