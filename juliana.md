@@ -1,15 +1,15 @@
 1. Pessoal
 
-2. Carreira
-*Prestando vestibular para Engenharia Civil*
+2. Carreira  
+*Prestando vestibular para Engenharia Civil*  
   - 2013 / 2014: Formada no EM / cursinho privado com bolsa
   - 2015: Aluna do Cursinho Público da Faculdade de Direito da USP (Arcadas)
-  - 2016 e 2017: ---
-*Prestando vestibular para Matemática*
+  - 2016 e 2017: ---  
+*Prestando vestibular para Matemática*  
   - 2018: Ingressei no Curso de Mat. Aplicada do IME-USP
     * Semana do Curso do BCC
-  - 2019: Ingressei no Tecs, nas PyLadies SP, nas R-Ladies SP (breve) e Embaixadora de Inovação Cívica da OKBR
-*Prestando vestibular para Computação*
+  - 2019: Ingressei no Tecs, nas PyLadies SP, nas R-Ladies SP (breve) e Embaixadora de Inovação Cívica da OKBR  
+*Prestando vestibular para Computação*  
   - 2020: Ingressei no BSI Matutino e no COLAB-USP
   - 2021: Estagiária da Open Knowlegde Brasil (OKBR)
 
